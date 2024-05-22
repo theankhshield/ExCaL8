@@ -1,0 +1,31 @@
+Items: {
+	FMJ_556: {
+		DisplayName: F M J_556
+		Tooltip: ""
+	}
+
+	M16: {
+		DisplayName: M16
+		Tooltip: ""
+	}
+
+	M4A1: {
+		DisplayName: M4 A1
+		Tooltip: ""
+	}
+
+	AK101: {
+		DisplayName: A K101
+		Tooltip: ""
+	}
+}
+
+Projectiles: {
+	Bullet_556.DisplayName: Bullet_556
+	Bullet.DisplayName: Bullet
+}
+
+Keybinds: {
+	Zoom.DisplayName: Zoom
+	BuffMyFriend.DisplayName: Buff My Friend
+}
